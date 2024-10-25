@@ -1,7 +1,7 @@
 let counter = 0;
 
 //Static
-const birthdayString = "Birthday: October 12, 2008";
+const birthdayString = "Birthday: September 6, 2008";
 
 //Countdown
 const birthdayMonth = 8;
