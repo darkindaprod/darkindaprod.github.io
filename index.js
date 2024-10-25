@@ -4,8 +4,8 @@ let counter = 0;
 const birthdayString = "Birthday: October 12, 2008";
 
 //Countdown
-const birthdayMonth = 10;
-const birthdayDay = 12;
+const birthdayMonth = 8;
+const birthdayDay = 6;
 const birthYear = 2008;
 const today = new Date();
 const currentYear = today.getFullYear();
